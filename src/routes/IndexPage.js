@@ -5,7 +5,7 @@ export default function IndexPage() {
   return (
     <div>
    
-      <hr/>
+      <p>你好</p>
  
     </div>
   )
