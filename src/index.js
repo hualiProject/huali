@@ -1,6 +1,7 @@
 import dva from 'dva';
 import './index.less';
-import './services/style/reset.less'
+import './utils/rem';
+import './assets/style/reset.less'
 // 1. Initialize
 const app = dva();
 

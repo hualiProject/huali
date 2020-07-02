@@ -1,12 +1,14 @@
-import React from 'react'
+// import React from 'react'
 
-
-export default function IndexPage() {
-  return (
-    <div>
-   
-      <p>你好</p>
- 
-    </div>
-  )
-}
+// export default function IndexPage(){
+//   return (
+//     <div>
+//       {/* 头部 */}
+      
+//       {/* 内容 */}
+//       <p>你好</p>
+//       {/* 足部 */}
+      
+//     </div>
+//   )
+// }

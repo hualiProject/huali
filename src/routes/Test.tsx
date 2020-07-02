@@ -1,36 +1,20 @@
-import  React from 'react'
-import {Button} from 'antd'
-interface IAppProps {
-    msg:string
-}
-interface IAppState {
-    money:number
-}
+import * as React from 'react'
+// import { render } from 'react-dom'
+import Tabbar from '../components/tabBar'
+import Tab from '../components/tab'
+import RouterComp from '../routerComp'
+interface IAppProps {}
+interface IAppState {}
 
-class Test extends React.Component<IAppProps, IAppState> {
-static defaultProps ={
-    msg:"这里是TS"
-}
-constructor(props){
-    super(props)
-    this.state ={
-        money:2000
-    }
-}
-
-hello = (msg: string):void=>{
-    alert(msg)
-}
-
-
-
+class App extends React.Component<IAppProps, IAppState> {
   public render(): JSX.Element {
     return (
-      <div>
-        <Button type="ghost" onClick={() => {this.hello('11')}}>你好</Button>
-        这是typescript了哦~
-      </div>
+      <React.Fragment>
+        <Tab/>
+        <RouterComp />
+        <Tabbar/>
+      </React.Fragment>
     )
   }
 }
-export default Test;
+export default App;
