@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "img": "https://img01.hua.com/uploadpic/newpic/9010966.jpg_220x240.jpg",
+        "text":"一往情深",
+        "name":"精品玫瑰礼盒:19枝红玫瑰，勿忘我0.1扎",
+        "promo":"年销售冠军",
+        "notice":"经典爆款，年销售冠军！",
+        "newprice":"¥239",
+        "price":"¥315",
+        "num":"12.4万"
+    },
+    {
+        "id": 2,
+        "img": "https://img01.hua.com/uploadpic/newpic/9012471.jpg_220x240.jpg",
+        "text":"你是唯一",
+        "name":"卡罗拉红玫瑰11枝",
+        "promo":"11枝新品",
+        "notice":"11枝新品 一心一意的爱",
+        "newprice":"¥138",
+        "price":"￥189",
+        "num":"148"
+    },
+    {
+        "id": 3,
+        "img": "https://img01.hua.com/uploadpic/newpic/9012455.jpg_220x240.jpg",
+        "text":"韩式系列/亲爱的你",
+        "name":"粉佳人玫瑰16枝",
+        "promo":"全新韩式系列",
+        "notice":"花艺师打造 韩式花束系列",
+        "newprice":"¥368",
+        "price":"¥469",
+        "num":"2881"
+    },
+    {
+        "id": 4,
+        "img": "https://img01.hua.com/uploadpic/newpic/9012177.jpg_220x240.jpg",
+        "text":"不变的承诺",
+        "name":"99枝红玫瑰",
+        "promo":"经典99枝",
+        "notice":"经典99枝，鼎力推荐！",
+        "newprice":"¥539",
+        "price":"¥869",
+        "num":"6.5万"
+    },
+    {
+        "id": 5,
+        "img": "https://img01.hua.com/uploadpic/newpic/9012441.jpg_220x240.jpg",
+        "text":" 语笑嫣然",
+        "name":"粉佳人玫瑰9枝、粉色小菊、洋桔梗、大叶尤加利",
+        "promo":"节日定制款",
+        "notice":"温柔相伴，笑容常在",
+        "newprice":"¥198",
+        "price":"¥286",
+        "num":"3632"
+    },
+    {
+        "id": 6,
+        "img": "https://img01.hua.com/uploadpic/newpic/9012450.jpg_220x240.jpg",
+        "text":"韩式系列/初心不负",
+        "name":" 韩式花束系列花艺师全新打造",
+        "promo":"全新韩式系列",
+        "notice":"花艺师打造 韩式花束系列",
+        "newprice":"¥226",
+        "price":"¥298",
+        "num":"7.0万"
+    },
+    {
+        "id": 7,
+        "img": "https://img01.hua.com/uploadpic/newpic/9010969.jpg_220x240.jpg",
+        "text":"你最珍贵",
+        "name":"精品玫瑰礼盒:香槟玫瑰19枝，勿忘我适量",
+        "promo":"全新韩式系列",
+        "notice":"优雅设计 精致甄选",
+        "newprice":"¥239",
+        "price":"¥329",
+        "num":"5.9万"
+    },
+    {
+        "id": 8,
+        "img": "https://img01.hua.com/uploadpic/newpic/9012470.jpg_220x240.jpg",
+        "text":"韩式系列/一见如初",
+        "name":"戴安娜玫瑰33枝",
+        "promo":"全新韩式系列",
+        "notice":"全新韩式系列 新品",
+        "newprice":"¥439",
+        "price":"¥569",
+        "num":"316"
+    }
+]

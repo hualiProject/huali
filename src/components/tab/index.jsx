@@ -5,7 +5,7 @@ export default function Tab() {
         <header>
             <i className={'fa fa-align-right'} ></i>
             <img src="https://m.hua.com/content/vue/login/static/img/m_hualogo.png" alt=""/>
-            <i className={'fa ' + 'fa-home'} ></i>
+            <i className={'fa fa-commenting-o'}></i>
         </header>
     )
 }

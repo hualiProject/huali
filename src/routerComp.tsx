@@ -29,6 +29,7 @@ function RouterComp() {
                     />
                 ))}
                 </Switch>
+                
             </Suspense>            
         </Fragment>
     )

@@ -1,0 +1,1 @@
+export const homeUrl = '../../mock/home_Lover.json'
